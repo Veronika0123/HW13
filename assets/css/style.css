@@ -50,7 +50,7 @@ footer{
 .big{
     grid-area: big;
     background-image: url("/assets/images/pic-big.jpg");
-    background-size:contain;
+    background-size:cover;
     width: 100%;
     height: 200px;
     background-repeat: no-repeat;
